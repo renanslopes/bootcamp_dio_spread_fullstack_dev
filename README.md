@@ -7,7 +7,7 @@
 #### Módulos:  
 - Lógica de programação Essencial
 - Git e Github
-- HTML + CSS3
+- [HTML](https://github.com/renanslopes/bootcamp_dio_spread_fullstack_dev/tree/master/html/01) + [CSS3](https://github.com/renanslopes/bootcamp_dio_spread_fullstack_dev/tree/master/css)
 - Javascript
 - ReactJS
 - Banco de dados
